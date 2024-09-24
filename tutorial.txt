@@ -1,0 +1,37 @@
+-----------------------------------------------------------------
+Primeiros passos para criar um código em Node.js:
+
+1. *Instalar o Node.js* 
+    - Acesse o site oficial do Node.js (https://nodejs.org)
+
+
+2. *Como verificar a instalação*
+   No terminal:
+    node -v
+
+   verificar o NPM (gerenciador de pacotes do Node):
+   npm -v
+
+3. Criar o diretorio(pasta).
+
+4. Inicie o projeto Node.js.
+  -Inicialize um projeto Node.js, 
+   o que criará o arquivo `package.json` 
+   com as informações básicas do projeto:
+   
+   npm init -y
+   
+   Isso cria um arquivo `package.json` com valores padrão.
+
+5. Crie um arquivo JavaScript
+
+6. Escreva seu primeiro código
+   Abra o arquivo `app.js` e adicione o seguinte código simples:
+    console.log('Hello, World!');
+   
+
+7. Execute o código
+   Para rodar seu código, no terminal, digite:
+    node app.js
+   
+Isso deve imprimir `Hello, World!` no terminal.

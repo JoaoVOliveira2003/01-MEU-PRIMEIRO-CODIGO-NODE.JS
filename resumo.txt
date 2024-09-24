@@ -1,0 +1,9 @@
+-Tenha o node
+-Tenha uma pasta
+-Tenha um arquivo JS.
+-Use o comando para criar um projeto node.js
+    npm init -y
+-Tenhe um arquivo js(app.js)
+-Use o comando para rodar 
+    node app.js
+
